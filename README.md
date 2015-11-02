@@ -142,7 +142,7 @@ Initial setup requires manually migrating the database to your heroku instance. 
     $ heroku run python manage.py migrate
 
 In case of the auth_user does not exist error; view the migrations:
-
+ewkgieqgaflje2wyhf
     heroku run python manage.py showmigrations
 
 
